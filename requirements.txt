@@ -4,4 +4,4 @@ plotly
 notebook
 voila
 widgetsnbextension
-jupyter-widget
+
